@@ -6,7 +6,7 @@ This is a sample repo
   - indent is two spaces
 
 $m4_2$
-
+thing
 ## some practice stuff
 
 **this is bold**
